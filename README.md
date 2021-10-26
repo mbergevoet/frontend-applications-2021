@@ -26,4 +26,8 @@ npm run build
 **Customize configuration**
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
+# License
+
+This repository uses [MIT](https://github.com/mbergevoet/frontend-applications-2021/blob/master/LICENSE) license. © Merlijn Bergevoet 2021
+
 
